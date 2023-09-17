@@ -33,7 +33,7 @@ body {
 
 .hero-img {
   width: 100%;
-  min-width: 500px;
+  min-width: 300px;
   border-radius: 20px;
   background-color: #333;
 }
@@ -108,7 +108,7 @@ body {
 }
 
 .signup-block {
-  padding: 50px 120px;
+  padding: 50px 10%;
   background-color: #3882F6;
   border-radius: 8px;
   display: flex;
