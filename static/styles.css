@@ -76,6 +76,19 @@ body {
   height: 300px;  
 }
 
+.quote {
+  padding: 120px 180px;
+}
+
+.quote-text {
+  margin-bottom: 32px;
+}
+
+.quote-author {
+  text-align: right;
+  font-weight: 800;
+}
+
 .main-text, 
 .secondary-text {
   color: #F9FAF8;
