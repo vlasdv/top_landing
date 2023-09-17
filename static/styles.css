@@ -14,13 +14,32 @@ body {
 
 .header, 
 .footer {
-  padding: 16px 128px;
+  padding: 16px 180px;
 }
 
 .header, 
 .hero, 
 .footer {
   background-color: #1F2937;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+  padding: 120px 180px;  
+}
+
+.hero-img {
+  width: 100%;
+  background-color: #333;
+}
+
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
 }
 
 .main-text, 
